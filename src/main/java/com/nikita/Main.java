@@ -16,7 +16,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         //String input = "do while x <>>>>> 10\n    1x = x + 1;\n   x = x * 5\n    output x\nloop";
-
+         //
         //LexicalAnalyzer analyzer = new LexicalAnalyzer();
         //analyzer.startAnalyze(input);
 
